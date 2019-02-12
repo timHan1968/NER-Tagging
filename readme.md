@@ -10,5 +10,5 @@ An NER tagging system that recognizes named entities, such as "Bostn" and "Googl
 Includes three versions for comparison:
 
 1. A simple rule-based Baseline model
-2. A ML model using HMM (*Hidden Markov Model*)
-3. A ML model using MEMM (*Maximum Entropy Markov Model*)
+2. A ML model using HMM (*Hidden Markov Model*) with probabilities derived by Bayesian Rule
+3. A ML model using MEMM (*Maximum Entropy Markov Model*) with probabilities derived by Logistic Regression
